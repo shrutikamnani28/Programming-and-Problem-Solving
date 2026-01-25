@@ -1,0 +1,6 @@
+Prog)Write a Python program that calculates the area of a circle when the radius is provided by the user. Use π = 3.14 and display the area.
+code:
+radius = float(input().strip())
+pi = 3.14
+area = pi * (radius ** 2)
+print(f"{area :. 4f}")
