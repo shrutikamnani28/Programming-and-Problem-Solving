@@ -1,6 +1,0 @@
-Prog) Write a Python program to calculate the area of a rectangle given its length and width.
-code:
-length = float (input())
-width = float(input ())
-area = length * width
-print(f"{area :. 2f}")

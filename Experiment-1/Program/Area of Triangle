@@ -1,6 +1,0 @@
-Prog) Write a Python program that prompts the user to enter the triangle's base and height and computes the triangle's area.
-code:
-a = float(input())
-b = float(input())
-area = 0.5 * a * b
-print(f"{area :. 2f}")
